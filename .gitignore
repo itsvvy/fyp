@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# 原始采集图像（中间产物，不提交）
+calib_images/
+good/
+stereo_left/
+stereo_right/
+visualized/
