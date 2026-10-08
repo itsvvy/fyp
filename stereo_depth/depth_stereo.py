@@ -3,7 +3,7 @@
 """
 双目深度 demo — 深度脚本 (离线, 批量处理左右目图像)
 
-依赖: 同目录下的 stereo_calibration.npz (从标定项目 calibrationDurl 拷过来一份)
+依赖: 同目录下的 stereo_calibration.npz (从标定项目 calibrationDurl(stereo) 拷过来一份)
 
 用法:
     python3 depth_stereo.py            # 处理 stereo_left/ 里所有配对
