@@ -18,11 +18,9 @@ fyp/
 │   └── logs/                      # 工作日志（一日期一文件）
 ├── calibration/
 │   ├── mono/                      # CSI 单目相机标定
-│   │   ├── scripts/
-│   │   └── results/
 │   └── stereo/                    # USB 双目相机标定
-│       ├── scripts/
-│       └── results/
+├── stereo_depth/                  # 双目相机 深度图
+│       
 └── assets/
     └── chessboard9x6.pdf
 ```
