@@ -27,7 +27,7 @@ fyp/
 
 ## 标定结果速览
 - 单目（CSI IMX219，1920×1080）：RMS 1.06 px，fx≈2722。详见 `calibration/mono/results/`。
-- 双目（PayCam C4008，每目 1280×960）：基线 5.36 cm，左右 RMS 0.55 / 0.50 px，双目 RMS 0.69 px。详见 `calibration/stereo/results/`。
+- 双目（PayCam C4008，每目 1280×960）：基线 5.34 cm，左右 RMS 0.55 / 0.50 px，双目 RMS 0.69 px。详见 `calibration/stereo/results/`。
 
 ## 复现
 见各 `calibration/*/results/README.md` 与对应日志。
